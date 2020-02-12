@@ -9,5 +9,5 @@ int main()
 	std::cout << "Day." << std::endl;
 	std::cout << "That's all for you." << std::endl;
 	std::cout << "All for me." << std::endl;
-	std::cout << "Good." << std::endl;
+	
 }
