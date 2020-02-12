@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string>
 int main()
 {
 	std::cout << "Hello, world!" << std::endl;
@@ -9,5 +9,6 @@ int main()
 	std::cout << "Day." << std::endl;
 	std::cout << "That's all for you." << std::endl;
 	std::cout << "All for me." << std::endl;
+	std::cout << ":)" << std::endl;
 	
 }
