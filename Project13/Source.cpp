@@ -9,4 +9,5 @@ int main()
 	std::cout << "Night." << std::endl;
 	std::cout << "Day." << std::endl;
 	std::cout << "That's all for you." << std::endl;
+	std::cout << "All for me." << std::endl;
 }
