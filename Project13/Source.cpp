@@ -8,4 +8,5 @@ int main()
 	std::cout << "Because I didn't see you so long." << std::endl;
 	std::cout << "Night." << std::endl;
 	std::cout << "Day." << std::endl;
+	std::cout << "That's all for you." << std::endl;
 }
