@@ -10,5 +10,5 @@ int main()
 	std::cout << "That's all for you." << std::endl;
 	std::cout << "All for me." << std::endl;
 	std::cout << ":)" << std::endl;
-	
+	std::cout << ":))" << std::endl;
 }
